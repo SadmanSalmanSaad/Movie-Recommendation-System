@@ -1,0 +1,55 @@
+*{
+	margin:0;
+	padding:0;
+}
+.main p{
+	font-size:50px;
+	font-weight: bold;
+	
+}
+.logo{
+	float:left;
+	height: fit-content;
+}
+
+.logo-name{
+	float:left;
+	color:white;
+	margin-top:10px;
+	margin-bottom:0;
+	
+}
+.logo-name h5{
+	margin-bottom:0;
+}
+.clear{
+	clear:both;
+}
+.header{
+	height: fit-content;
+}
+.logo img{
+	height: 80px;
+}
+.btns{
+	background-color:black;
+	width:39%;
+}
+.btn-item{
+	float:left;
+	margin:5px;
+	border: 8px solid black;
+	border-radius: 5px;
+}
+.menu button{
+	border-radius: 25px;
+	background: #e70b0b;
+	color:white;
+	background-color:red
+	height: 80px;
+}
+
+
+button{
+	width: 120px;
+}
