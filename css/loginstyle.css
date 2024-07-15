@@ -1,0 +1,31 @@
+
+
+.btn{
+	background-color:#cf0300;
+	margin:10px;
+	border-radius: 20px;
+	color: aliceblue;
+}
+.login{
+	float:left;
+	margin: 50px;
+	padding: 20px;
+	color: aliceblue;
+	
+	
+}
+.gif img{
+	float:left;
+	width:60%;
+}
+.login input,label{
+	
+    width: 420px;
+    margin:10px 0;
+	color: aliceblue;
+}
+.login h1{
+	text-align:center;
+	color: aliceblue;
+	
+}
